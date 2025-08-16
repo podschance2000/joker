@@ -1,6 +1,6 @@
 services:
   aiostreams:
-    image: ghcr.io/viren070/aiostreams:latest
+    image: ghcr.io/podschance2000/joker:latest
     container_name: aiostreams
     restart: unless-stopped
     ports:
